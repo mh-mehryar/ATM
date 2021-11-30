@@ -1,0 +1,30 @@
+D:\.Net\Exercise\S12\sample11\bin\Debug\net6.0\sample11.exe
+D:\.Net\Exercise\S12\sample11\bin\Debug\net6.0\sample11.deps.json
+D:\.Net\Exercise\S12\sample11\bin\Debug\net6.0\sample11.runtimeconfig.json
+D:\.Net\Exercise\S12\sample11\bin\Debug\net6.0\sample11.dll
+D:\.Net\Exercise\S12\sample11\bin\Debug\net6.0\ref\sample11.dll
+D:\.Net\Exercise\S12\sample11\bin\Debug\net6.0\sample11.pdb
+D:\.Net\Exercise\S12\sample11\obj\Debug\net6.0\sample11.csproj.AssemblyReference.cache
+D:\.Net\Exercise\S12\sample11\obj\Debug\net6.0\sample11.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Exercise\S12\sample11\obj\Debug\net6.0\sample11.AssemblyInfoInputs.cache
+D:\.Net\Exercise\S12\sample11\obj\Debug\net6.0\sample11.AssemblyInfo.cs
+D:\.Net\Exercise\S12\sample11\obj\Debug\net6.0\sample11.csproj.CoreCompileInputs.cache
+D:\.Net\Exercise\S12\sample11\obj\Debug\net6.0\sample11.dll
+D:\.Net\Exercise\S12\sample11\obj\Debug\net6.0\ref\sample11.dll
+D:\.Net\Exercise\S12\sample11\obj\Debug\net6.0\sample11.pdb
+D:\.Net\Exercise\S12\sample11\obj\Debug\net6.0\sample11.genruntimeconfig.cache
+D:\.Net\Exercise\S12\sample11 - Copy\bin\Debug\net6.0\sample11.exe
+D:\.Net\Exercise\S12\sample11 - Copy\bin\Debug\net6.0\sample11.deps.json
+D:\.Net\Exercise\S12\sample11 - Copy\bin\Debug\net6.0\sample11.runtimeconfig.json
+D:\.Net\Exercise\S12\sample11 - Copy\bin\Debug\net6.0\sample11.dll
+D:\.Net\Exercise\S12\sample11 - Copy\bin\Debug\net6.0\ref\sample11.dll
+D:\.Net\Exercise\S12\sample11 - Copy\bin\Debug\net6.0\sample11.pdb
+D:\.Net\Exercise\S12\sample11 - Copy\obj\Debug\net6.0\sample11.csproj.AssemblyReference.cache
+D:\.Net\Exercise\S12\sample11 - Copy\obj\Debug\net6.0\sample11.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Exercise\S12\sample11 - Copy\obj\Debug\net6.0\sample11.AssemblyInfoInputs.cache
+D:\.Net\Exercise\S12\sample11 - Copy\obj\Debug\net6.0\sample11.AssemblyInfo.cs
+D:\.Net\Exercise\S12\sample11 - Copy\obj\Debug\net6.0\sample11.csproj.CoreCompileInputs.cache
+D:\.Net\Exercise\S12\sample11 - Copy\obj\Debug\net6.0\sample11.dll
+D:\.Net\Exercise\S12\sample11 - Copy\obj\Debug\net6.0\ref\sample11.dll
+D:\.Net\Exercise\S12\sample11 - Copy\obj\Debug\net6.0\sample11.pdb
+D:\.Net\Exercise\S12\sample11 - Copy\obj\Debug\net6.0\sample11.genruntimeconfig.cache
